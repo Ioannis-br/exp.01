@@ -2,7 +2,7 @@
 	{
 		"name": "Camel Musketeer",
 		"unitType": "Gunpowder",
-		"uniqueTo": "Emirates of Jabal Shammar",
+		"uniqueTo": "Emirate of Jabal Shammar",
 		"replaces": "Musketman",
 		"movement": 2,
 		"strength": 120,
