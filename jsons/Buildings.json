@@ -1,25 +1,15 @@
 [
 	{
-		"name": "Holodeck",
+		"name": "Camel racing",
 		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "Emirate of Jabal Shammar",
 		"cost": 480,
-		"happiness": 12,
+		"happiness": 14,
 		"culture": 12,
 		"science": 12,
-		"maintenance": 96,
+		"maintenance": 90,
 		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
+		"requiredBuildingInAllCities": ,
 		"requiredTech": "Horseback Riding"
 	},
-	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
-	}
 ]
